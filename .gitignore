@@ -431,8 +431,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# 追記
-!*.cpp
-*.sln
-**/*.vcxproj*
